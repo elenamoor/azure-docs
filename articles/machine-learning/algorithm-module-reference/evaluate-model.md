@@ -24,8 +24,6 @@ Use this module to measure the accuracy of a trained model. You provide a datase
 -   **Clustering Models**  
 
 
-> [!TIP]
-> If you are new to model evaluation, we recommend the video series by Dr. Stephen Elston, as part of the [machine learning course](/archive/blogs/machinelearning/new-edx-course-data-science-machine-learning-essentials) from EdX. 
 
 
 ## How to use Evaluate Model
